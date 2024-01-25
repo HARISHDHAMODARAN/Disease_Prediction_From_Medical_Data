@@ -10,11 +10,11 @@ Flexible data input formats
 Scalable architecture for handling large datasets
 Easily customizable for different healthcare domains
 
-**Requirements:
-**
+**Requirements:**
+
 Python 3.x
 Machine learning libraries (e.g., scikit-learn, Pandas, Numpy)
 
-**Result:
-**
+**Result:**
+
 This model achieved a 100% accuracy rate during performance.
